@@ -1,15 +1,6 @@
-# Fullstack React Quiz
-
 ## Introduction
 
-The following assignment will be used to test your React + Redux ability. React + Redux are core tools that are utilized everyday here and an sufficient knowledge is necessary.
-
-In order to get a good understanding of where your skills lie, I've designed a simple web application that must utilize React + Redux. The application will be a simple **quiz game** that asks 10 questions and returns the success percentage afterwards.
-
-It is crucial that Redux is used in the best way possible way in this application, and how it is used will be key to the success of the project. 
-
-The project will be due by **Tuesday, April 17 @ 11:59pm**. Please fork the repo and make it public.
-
+The following assignment will be used to test React + Redux ability. React + Redux are core tools that are utilized everyday here and an sufficient knowledge is necessary.
 
 ## Design
 
@@ -64,8 +55,6 @@ This screen should also include a way to play again.
 
 ## Conclusion
 
-This task is meant to test your code quality, use a React features and fluency in Redux.
-
-Thank you very much for your interest in working here at Welbi.
+This task is meant to test the code quality, use a React features and fluency in Redux.
 
 # quiz_game
